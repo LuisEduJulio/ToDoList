@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Source+Sans+Pro&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Roboto', 'Helvetica', 'Arial', 'Source Sans Pro', sans-serif;
+    background-color: #fff;
+    -webkit-font-smoothing: antialiased;
+}
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+button {
+    cursor: pointer;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f4f4f4;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    background: #f4f4f4;
+}
+::-webkit-scrollbar-thumb {
+    background: #39396c;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}

@@ -1,0 +1,182 @@
+.container-register {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.container-register-right {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.container-logo-register-right {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.spanA-logo-register-right {
+    color: #d8545c;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 3px;
+    font-family: Roboto;
+}
+.spanB-logo-register-right {
+    color: #39396c;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+.container-title-register-right {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.span-title-register-right {
+    color: #39396c;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+.container-input-register-right {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.container-row-input-register-right {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.span-input-register-right {
+    color: #272829;
+    font-size: 16px;
+    font-weight: 600px;
+    font-family: Source Sans Pro;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.input-input-register-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f1fe;
+    color: 272829;
+    border: 1px solid #c0d4ec;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #09101d;
+    width: 246px;
+    height: 36px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 3px 0px;
+    padding: 8px 16px;
+    font-family: Source Sans Pro;
+}
+.asterisc-input-register-right {
+    color: #db0c0c;
+}
+.textarea-input-register-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f1fe;
+    color: 272829;
+    border: 1px solid #c0d4ec;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-family: Source Sans Pro;
+    color: #09101d;
+    width: 246px;
+    height: 80px;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 3px 0px;
+    padding: 8px 16px;
+}
+.container-link-register-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+}
+.button-link-register-right {
+    background-color: transparent;
+    border: none !important;
+}
+.span-link-register-right {
+    color: #39396c;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Source Sans Pro;
+}
+.container-access-register-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.button-access-register-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #39396c;
+    color: 272829;
+    border: 1px solid #39396c;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 36px;
+    padding: 8px 16px;
+}
+.access-access-register-right {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: Source Sans Pro;
+}
+.container-add-register-right {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.button-add-register-right {
+    border: none !important;
+    background-color: transparent;
+}
+.span-link-add-register-right {
+    color: #d8545c;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+.container-register-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.img-register-left {
+    width: 452px;
+    height: 473px;
+}
+.span-register-left {
+    color: #39396c;
+    font-size: 20;
+    font-weight: bold;
+}
